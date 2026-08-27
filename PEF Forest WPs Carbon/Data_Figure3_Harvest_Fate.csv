@@ -1,0 +1,36 @@
+Stand,Scenario,End_Use,Carbon_MgC_ha
+Stand 1,Clearcut,Construction,1.770358344026328
+Stand 1,Shelterwood,Construction,3.701787160026536
+Stand 1,TFB,Construction,0.0
+Stand 2,Clearcut,Construction,9.599333025742283
+Stand 2,Shelterwood,Construction,6.665063442158478
+Stand 1,Clearcut,Household,0.8349136215857397
+Stand 1,Shelterwood,Household,2.353855285485942
+Stand 1,TFB,Household,0.0
+Stand 2,Clearcut,Household,2.552856125004973
+Stand 2,Shelterwood,Household,2.048034822906429
+Stand 1,Clearcut,Exterior,0.44661255591129945
+Stand 1,Shelterwood,Exterior,1.200136040834927
+Stand 1,TFB,Exterior,0.0
+Stand 2,Clearcut,Exterior,1.5571025591864653
+Stand 2,Shelterwood,Exterior,1.2017893936590855
+Stand 1,Clearcut,Graphic Paper,1.8357234947334997
+Stand 1,Shelterwood,Graphic Paper,3.330391517428496
+Stand 1,TFB,Graphic Paper,0.5979320063672732
+Stand 2,Clearcut,Graphic Paper,1.0955285128714893
+Stand 2,Shelterwood,Graphic Paper,0.9831442501124658
+Stand 1,Clearcut,Other Paper,7.954801810511833
+Stand 1,Shelterwood,Other Paper,14.431696575523485
+Stand 1,TFB,Other Paper,2.5910386942581844
+Stand 2,Clearcut,Other Paper,4.747290222443121
+Stand 2,Shelterwood,Other Paper,4.260291750487353
+Stand 1,Clearcut,Household Paper,2.447631326311333
+Stand 1,Shelterwood,Household Paper,4.440522023237996
+Stand 1,TFB,Household Paper,0.7972426751563644
+Stand 2,Clearcut,Household Paper,1.4607046838286524
+Stand 2,Shelterwood,Household Paper,1.3108590001499545
+Stand 1,Clearcut,Biofuel,13.373505494136378
+Stand 1,Shelterwood,Biofuel,25.05714160570167
+Stand 1,TFB,Biofuel,3.9862133757818228
+Stand 2,Clearcut,Biofuel,11.8994727865574
+Stand 2,Shelterwood,Biofuel,9.963117430638446

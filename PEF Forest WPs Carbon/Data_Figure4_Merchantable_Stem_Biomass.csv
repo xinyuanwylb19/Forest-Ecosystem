@@ -1,0 +1,250 @@
+Stand,Scenario,Year,Phase,Phase_Order,Species,Carbon_MgC_ha
+Stand 1,No Harvesting,2025,Growth,0,BF,5.43219036301435
+Stand 1,No Harvesting,2025,Growth,0,EH,1.0219238228417282
+Stand 1,No Harvesting,2025,Growth,0,GB,0.0
+Stand 1,No Harvesting,2025,Growth,0,RM,18.288897939585187
+Stand 1,No Harvesting,2025,Growth,0,RO,0.4042402193157003
+Stand 1,No Harvesting,2025,Growth,0,WP,3.5034154464437974
+Stand 1,No Harvesting,2035,Growth,0,BF,9.049107183607335
+Stand 1,No Harvesting,2035,Growth,0,EH,1.4699422147530394
+Stand 1,No Harvesting,2035,Growth,0,GB,0.19406826881517586
+Stand 1,No Harvesting,2035,Growth,0,RM,24.493901691303048
+Stand 1,No Harvesting,2035,Growth,0,RO,0.6242408317216847
+Stand 1,No Harvesting,2035,Growth,0,WP,4.123536273221591
+Stand 1,No Harvesting,2045,Growth,0,BF,12.393991949992886
+Stand 1,No Harvesting,2045,Growth,0,EH,1.9359508972020643
+Stand 1,No Harvesting,2045,Growth,0,GB,0.30136175675721893
+Stand 1,No Harvesting,2045,Growth,0,RM,31.095065875484675
+Stand 1,No Harvesting,2045,Growth,0,RO,0.8766587186738588
+Stand 1,No Harvesting,2045,Growth,0,WP,4.738574735128134
+Stand 1,No Harvesting,2055,Growth,0,BF,15.035386283688435
+Stand 1,No Harvesting,2055,Growth,0,EH,2.3605871432342007
+Stand 1,No Harvesting,2055,Growth,0,GB,0.2985426560525396
+Stand 1,No Harvesting,2055,Growth,0,RM,37.88561763278083
+Stand 1,No Harvesting,2055,Growth,0,RO,1.1339872606126224
+Stand 1,No Harvesting,2055,Growth,0,WP,5.240794025418753
+Stand 1,No Harvesting,2065,Growth,0,BF,17.5225997767915
+Stand 1,No Harvesting,2065,Growth,0,EH,2.7834452973175816
+Stand 1,No Harvesting,2065,Growth,0,GB,0.2633889828252631
+Stand 1,No Harvesting,2065,Growth,0,RM,44.948360294444804
+Stand 1,No Harvesting,2065,Growth,0,RO,1.3333767778313426
+Stand 1,No Harvesting,2065,Growth,0,WP,5.690679802146761
+Stand 1,No Harvesting,2075,Growth,0,BF,19.776411451883373
+Stand 1,No Harvesting,2075,Growth,0,EH,3.2017934507485046
+Stand 1,No Harvesting,2075,Growth,0,GB,0.21483022688041267
+Stand 1,No Harvesting,2075,Growth,0,RM,52.404652104818766
+Stand 1,No Harvesting,2075,Growth,0,RO,1.538794100884774
+Stand 1,No Harvesting,2075,Growth,0,WP,6.083268654791634
+Stand 1,Clearcut,2025,Pre-harvest,1,BF,5.43219036301435
+Stand 1,Clearcut,2025,Pre-harvest,1,EH,1.0219238228417282
+Stand 1,Clearcut,2025,Pre-harvest,1,GB,0.0
+Stand 1,Clearcut,2025,Pre-harvest,1,RM,18.288897939585187
+Stand 1,Clearcut,2025,Pre-harvest,1,RO,0.4042402193157003
+Stand 1,Clearcut,2025,Pre-harvest,1,WP,3.5034154464437974
+Stand 1,Clearcut,2025,Post-harvest,2,BF,0.0
+Stand 1,Clearcut,2025,Post-harvest,2,EH,0.0
+Stand 1,Clearcut,2025,Post-harvest,2,GB,0.0
+Stand 1,Clearcut,2025,Post-harvest,2,RM,0.0
+Stand 1,Clearcut,2025,Post-harvest,2,RO,0.0
+Stand 1,Clearcut,2025,Post-harvest,2,WP,0.0
+Stand 1,Clearcut,2035,Growth,0,BF,0.0
+Stand 1,Clearcut,2035,Growth,0,EH,0.0
+Stand 1,Clearcut,2035,Growth,0,GB,0.0
+Stand 1,Clearcut,2035,Growth,0,RM,0.0
+Stand 1,Clearcut,2035,Growth,0,RO,0.0
+Stand 1,Clearcut,2035,Growth,0,WP,0.0
+Stand 1,Clearcut,2045,Growth,0,BF,0.0
+Stand 1,Clearcut,2045,Growth,0,EH,0.0
+Stand 1,Clearcut,2045,Growth,0,GB,0.0
+Stand 1,Clearcut,2045,Growth,0,RM,0.0
+Stand 1,Clearcut,2045,Growth,0,RO,0.0
+Stand 1,Clearcut,2045,Growth,0,WP,0.0
+Stand 1,Clearcut,2055,Growth,0,BF,0.0
+Stand 1,Clearcut,2055,Growth,0,EH,0.0
+Stand 1,Clearcut,2055,Growth,0,GB,0.0
+Stand 1,Clearcut,2055,Growth,0,RM,0.0
+Stand 1,Clearcut,2055,Growth,0,RO,0.0
+Stand 1,Clearcut,2055,Growth,0,WP,0.0
+Stand 1,Clearcut,2065,Growth,0,BF,0.0
+Stand 1,Clearcut,2065,Growth,0,EH,0.0
+Stand 1,Clearcut,2065,Growth,0,GB,0.04243805375662319
+Stand 1,Clearcut,2065,Growth,0,RM,1.0164649343765337
+Stand 1,Clearcut,2065,Growth,0,RO,0.0972185215773639
+Stand 1,Clearcut,2065,Growth,0,WP,0.0
+Stand 1,Clearcut,2075,Growth,0,BF,0.0
+Stand 1,Clearcut,2075,Growth,0,EH,0.0
+Stand 1,Clearcut,2075,Growth,0,GB,0.13589271035546094
+Stand 1,Clearcut,2075,Growth,0,RM,9.612834316654205
+Stand 1,Clearcut,2075,Growth,0,RO,0.22731650888033866
+Stand 1,Clearcut,2075,Growth,0,WP,0.0
+Stand 1,Shelterwood,2025,Growth,0,BF,5.43219036301435
+Stand 1,Shelterwood,2025,Growth,0,EH,1.0219238228417282
+Stand 1,Shelterwood,2025,Growth,0,GB,0.0
+Stand 1,Shelterwood,2025,Growth,0,RM,18.288897939585187
+Stand 1,Shelterwood,2025,Growth,0,RO,0.4042402193157003
+Stand 1,Shelterwood,2025,Growth,0,WP,3.5034154464437974
+Stand 1,Shelterwood,2035,Pre-harvest,1,BF,9.049107183607335
+Stand 1,Shelterwood,2035,Pre-harvest,1,EH,1.4699422147530394
+Stand 1,Shelterwood,2035,Pre-harvest,1,GB,0.19406826881517586
+Stand 1,Shelterwood,2035,Pre-harvest,1,RM,24.493901691303048
+Stand 1,Shelterwood,2035,Pre-harvest,1,RO,0.6242408317216847
+Stand 1,Shelterwood,2035,Pre-harvest,1,WP,4.123536273221591
+Stand 1,Shelterwood,2035,Post-harvest,2,BF,5.279862637087911
+Stand 1,Shelterwood,2035,Post-harvest,2,EH,1.3678384130713008
+Stand 1,Shelterwood,2035,Post-harvest,2,GB,0.0
+Stand 1,Shelterwood,2035,Post-harvest,2,RM,21.617949954953357
+Stand 1,Shelterwood,2035,Post-harvest,2,RO,0.6242408317216847
+Stand 1,Shelterwood,2035,Post-harvest,2,WP,4.123536273221591
+Stand 1,Shelterwood,2045,Growth,0,BF,6.532682790384864
+Stand 1,Shelterwood,2045,Growth,0,EH,1.7341427877341122
+Stand 1,Shelterwood,2045,Growth,0,GB,0.0
+Stand 1,Shelterwood,2045,Growth,0,RM,26.706393241537874
+Stand 1,Shelterwood,2045,Growth,0,RO,0.8479076455974516
+Stand 1,Shelterwood,2045,Growth,0,WP,4.685393453099466
+Stand 1,Shelterwood,2055,Growth,0,BF,8.013940160073554
+Stand 1,Shelterwood,2055,Growth,0,EH,2.1364632638277037
+Stand 1,Shelterwood,2055,Growth,0,GB,0.0
+Stand 1,Shelterwood,2055,Growth,0,RM,32.48769057740601
+Stand 1,Shelterwood,2055,Growth,0,RO,1.113759256392202
+Stand 1,Shelterwood,2055,Growth,0,WP,5.271194905866911
+Stand 1,Shelterwood,2065,Pre-harvest,1,BF,9.539365681523728
+Stand 1,Shelterwood,2065,Pre-harvest,1,EH,2.563521126972269
+Stand 1,Shelterwood,2065,Pre-harvest,1,GB,0.0
+Stand 1,Shelterwood,2065,Pre-harvest,1,RM,38.64583092043447
+Stand 1,Shelterwood,2065,Pre-harvest,1,RO,1.3883806577410556
+Stand 1,Shelterwood,2065,Pre-harvest,1,WP,5.833263063608504
+Stand 1,Shelterwood,2065,Post-harvest,2,BF,0.0
+Stand 1,Shelterwood,2065,Post-harvest,2,EH,0.06250977640343058
+Stand 1,Shelterwood,2065,Post-harvest,2,GB,0.0
+Stand 1,Shelterwood,2065,Post-harvest,2,RM,4.505218596739565
+Stand 1,Shelterwood,2065,Post-harvest,2,RO,0.0
+Stand 1,Shelterwood,2065,Post-harvest,2,WP,5.833263063608504
+Stand 1,Shelterwood,2075,Growth,0,BF,0.0
+Stand 1,Shelterwood,2075,Growth,0,EH,0.07474286784283742
+Stand 1,Shelterwood,2075,Growth,0,GB,0.0
+Stand 1,Shelterwood,2075,Growth,0,RM,4.975305364439509
+Stand 1,Shelterwood,2075,Growth,0,RO,0.0
+Stand 1,Shelterwood,2075,Growth,0,WP,6.379558735353533
+Stand 1,TFB,2025,Growth,0,BF,5.43219036301435
+Stand 1,TFB,2025,Growth,0,EH,1.0219238228417282
+Stand 1,TFB,2025,Growth,0,GB,0.0
+Stand 1,TFB,2025,Growth,0,RM,18.288897939585187
+Stand 1,TFB,2025,Growth,0,RO,0.4042402193157003
+Stand 1,TFB,2025,Growth,0,WP,3.5034154464437974
+Stand 1,TFB,2035,Pre-harvest,1,BF,9.049107183607335
+Stand 1,TFB,2035,Pre-harvest,1,EH,1.4699422147530394
+Stand 1,TFB,2035,Pre-harvest,1,GB,0.19406826881517586
+Stand 1,TFB,2035,Pre-harvest,1,RM,24.493901691303048
+Stand 1,TFB,2035,Pre-harvest,1,RO,0.6242408317216847
+Stand 1,TFB,2035,Pre-harvest,1,WP,4.123536273221591
+Stand 1,TFB,2035,Post-harvest,2,BF,4.7017817278336835
+Stand 1,TFB,2035,Post-harvest,2,EH,1.3678384130713008
+Stand 1,TFB,2035,Post-harvest,2,GB,0.0
+Stand 1,TFB,2035,Post-harvest,2,RM,21.165025271629805
+Stand 1,TFB,2035,Post-harvest,2,RO,0.6242408317216847
+Stand 1,TFB,2035,Post-harvest,2,WP,4.123536273221591
+Stand 1,TFB,2045,Growth,0,BF,5.681337360785681
+Stand 1,TFB,2045,Growth,0,EH,1.7318680038150003
+Stand 1,TFB,2045,Growth,0,GB,0.0
+Stand 1,TFB,2045,Growth,0,RM,26.062728871097868
+Stand 1,TFB,2045,Growth,0,RO,0.8424338043404566
+Stand 1,TFB,2045,Growth,0,WP,4.675148328219639
+Stand 1,TFB,2055,Growth,0,BF,6.914116354335942
+Stand 1,TFB,2055,Growth,0,EH,2.131047484734102
+Stand 1,TFB,2055,Growth,0,GB,0.0
+Stand 1,TFB,2055,Growth,0,RM,31.658551794268877
+Stand 1,TFB,2055,Growth,0,RO,1.1143381686304588
+Stand 1,TFB,2055,Growth,0,WP,5.2650016846181815
+Stand 1,TFB,2065,Growth,0,BF,8.2172812855933
+Stand 1,TFB,2065,Growth,0,EH,2.5502235650795706
+Stand 1,TFB,2065,Growth,0,GB,0.0
+Stand 1,TFB,2065,Growth,0,RM,37.56645244263938
+Stand 1,TFB,2065,Growth,0,RO,1.3684435825385894
+Stand 1,TFB,2065,Growth,0,WP,5.829644963295101
+Stand 1,TFB,2075,Growth,0,BF,9.575031198072145
+Stand 1,TFB,2075,Growth,0,EH,2.9949399073097656
+Stand 1,TFB,2075,Growth,0,GB,0.0
+Stand 1,TFB,2075,Growth,0,RM,43.757166023300954
+Stand 1,TFB,2075,Growth,0,RO,1.6331557193773554
+Stand 1,TFB,2075,Growth,0,WP,6.351990708402617
+Stand 2,No Harvesting,2025,Growth,0,RM,6.55635386408694
+Stand 2,No Harvesting,2025,Growth,0,RO,0.5072818734906374
+Stand 2,No Harvesting,2025,Growth,0,WP,46.36570927503779
+Stand 2,No Harvesting,2035,Growth,0,RM,7.9862616869785334
+Stand 2,No Harvesting,2035,Growth,0,RO,0.7453362598134029
+Stand 2,No Harvesting,2035,Growth,0,WP,48.72432585120736
+Stand 2,No Harvesting,2045,Growth,0,RM,9.457919738125911
+Stand 2,No Harvesting,2045,Growth,0,RO,0.9889815574238608
+Stand 2,No Harvesting,2045,Growth,0,WP,51.052791534178255
+Stand 2,No Harvesting,2055,Growth,0,RM,10.962849525740774
+Stand 2,No Harvesting,2055,Growth,0,RO,1.2522250297386686
+Stand 2,No Harvesting,2055,Growth,0,WP,53.33004721842341
+Stand 2,No Harvesting,2065,Growth,0,RM,12.551382194068138
+Stand 2,No Harvesting,2065,Growth,0,RO,1.3937865000104994
+Stand 2,No Harvesting,2065,Growth,0,WP,55.483101876852714
+Stand 2,No Harvesting,2075,Growth,0,RM,14.206362680913116
+Stand 2,No Harvesting,2075,Growth,0,RO,1.5689683760571143
+Stand 2,No Harvesting,2075,Growth,0,WP,57.4704810315334
+Stand 2,Clearcut,2025,Pre-harvest,1,RM,6.55635386408694
+Stand 2,Clearcut,2025,Pre-harvest,1,RO,0.5072818734906374
+Stand 2,Clearcut,2025,Pre-harvest,1,WP,46.36570927503779
+Stand 2,Clearcut,2025,Post-harvest,2,RM,0.0
+Stand 2,Clearcut,2025,Post-harvest,2,RO,0.0
+Stand 2,Clearcut,2025,Post-harvest,2,WP,20.52004072779103
+Stand 2,Clearcut,2035,Growth,0,RM,0.0
+Stand 2,Clearcut,2035,Growth,0,RO,0.0
+Stand 2,Clearcut,2035,Growth,0,WP,20.64536505480652
+Stand 2,Clearcut,2045,Growth,0,RM,0.0
+Stand 2,Clearcut,2045,Growth,0,RO,0.0
+Stand 2,Clearcut,2045,Growth,0,WP,21.18518483157988
+Stand 2,Clearcut,2055,Growth,0,RM,0.0
+Stand 2,Clearcut,2055,Growth,0,RO,0.0
+Stand 2,Clearcut,2055,Growth,0,WP,21.676081980093407
+Stand 2,Clearcut,2065,Growth,0,RM,0.0
+Stand 2,Clearcut,2065,Growth,0,RO,0.0
+Stand 2,Clearcut,2065,Growth,0,WP,22.068246874043037
+Stand 2,Clearcut,2075,Growth,0,RM,0.5260681557103604
+Stand 2,Clearcut,2075,Growth,0,RO,0.08623827826632484
+Stand 2,Clearcut,2075,Growth,0,WP,22.35005006430341
+Stand 2,Shelterwood,2025,Growth,0,RM,6.55635386408694
+Stand 2,Shelterwood,2025,Growth,0,RO,0.5072818734906374
+Stand 2,Shelterwood,2025,Growth,0,WP,46.36570927503779
+Stand 2,Shelterwood,2035,Pre-harvest,1,RM,7.9862616869785334
+Stand 2,Shelterwood,2035,Pre-harvest,1,RO,0.7453362598134029
+Stand 2,Shelterwood,2035,Pre-harvest,1,WP,48.72432585120736
+Stand 2,Shelterwood,2035,Post-harvest,2,RM,0.0
+Stand 2,Shelterwood,2035,Post-harvest,2,RO,0.0
+Stand 2,Shelterwood,2035,Post-harvest,2,WP,45.95069483114001
+Stand 2,Shelterwood,2045,Growth,0,RM,0.0
+Stand 2,Shelterwood,2045,Growth,0,RO,0.0
+Stand 2,Shelterwood,2045,Growth,0,WP,47.44391812864841
+Stand 2,Shelterwood,2055,Growth,0,RM,0.0
+Stand 2,Shelterwood,2055,Growth,0,RO,0.0
+Stand 2,Shelterwood,2055,Growth,0,WP,49.444936671291416
+Stand 2,Shelterwood,2065,Pre-harvest,1,RM,0.0
+Stand 2,Shelterwood,2065,Pre-harvest,1,RO,0.0
+Stand 2,Shelterwood,2065,Pre-harvest,1,WP,51.38742265090114
+Stand 2,Shelterwood,2065,Post-harvest,2,RM,0.0
+Stand 2,Shelterwood,2065,Post-harvest,2,RO,0.0
+Stand 2,Shelterwood,2065,Post-harvest,2,WP,36.46439085605151
+Stand 2,Shelterwood,2075,Growth,0,RM,0.0
+Stand 2,Shelterwood,2075,Growth,0,RO,0.0
+Stand 2,Shelterwood,2075,Growth,0,WP,37.35117600681009
+Stand 2,TFB,2025,Growth,0,RM,6.55635386408694
+Stand 2,TFB,2025,Growth,0,RO,0.5072818734906374
+Stand 2,TFB,2025,Growth,0,WP,46.36570927503779
+Stand 2,TFB,2035,Growth,0,RM,7.9862616869785334
+Stand 2,TFB,2035,Growth,0,RO,0.7453362598134029
+Stand 2,TFB,2035,Growth,0,WP,48.72432585120736
+Stand 2,TFB,2045,Growth,0,RM,9.457919738125911
+Stand 2,TFB,2045,Growth,0,RO,0.9889815574238608
+Stand 2,TFB,2045,Growth,0,WP,51.052791534178255
+Stand 2,TFB,2055,Growth,0,RM,10.962849525740774
+Stand 2,TFB,2055,Growth,0,RO,1.2522250297386686
+Stand 2,TFB,2055,Growth,0,WP,53.33004721842341
+Stand 2,TFB,2065,Growth,0,RM,12.551382194068138
+Stand 2,TFB,2065,Growth,0,RO,1.3937865000104994
+Stand 2,TFB,2065,Growth,0,WP,55.483101876852714
+Stand 2,TFB,2075,Growth,0,RM,14.206362680913116
+Stand 2,TFB,2075,Growth,0,RO,1.5689683760571143
+Stand 2,TFB,2075,Growth,0,WP,57.4704810315334
